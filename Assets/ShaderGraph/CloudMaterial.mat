@@ -51,11 +51,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Cloud_Scale: 80
+    - _Alpha_Clipping: 0
+    - _Cloud_Alpha: 2
+    - _Cloud_Scale: 60
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Cloud_Color: {r: 1, g: 1, b: 1, a: 0.5019608}
+    - _Cloud_Color: {r: 1, g: 0.9990953, b: 0.8537736, a: 0.5019608}
     - _Cloud_Speed_1: {r: 0.009, g: 0.03, b: 0, a: 0}
     - _Cloud_Speed_2: {r: 0.009, g: 0.01, b: 0, a: 0}
     - _Sky_Color: {r: 0, g: 0.4666667, b: 1, a: 0}
